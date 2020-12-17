@@ -6,6 +6,7 @@
 
 ### [Click to see thrust vectoring video](https://photos.app.goo.gl/tZUskvHCKAZkRQRq5)
 ### [Easy EDA Project Link](https://oshwlab.com/polishdude20/flightcompwithbt_copy_copy_copy)
+Questions? Comments? Open up an issue!
 
 <div style="display:flex">
 <img src="./images/pcbHand2.jpg" height="400" />
