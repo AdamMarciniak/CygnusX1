@@ -5,6 +5,7 @@
 ## A thrust-vectoring model rocket flight computer. Comes with all you need to keep your rocket pointing up.
 
 ### [Click to see thrust vectoring video](https://photos.app.goo.gl/tZUskvHCKAZkRQRq5)
+### [Easy EDA Project Link](https://oshwlab.com/polishdude20/flightcompwithbt_copy_copy_copy)
 
 <div style="display:flex">
 <img src="./images/pcbHand2.jpg" height="400" />
