@@ -33,7 +33,7 @@ It's fully compatible with the Arduino IDE, Platformio etc. Code is written in C
 
 The board was designed using EasyEDA and fabricated using JLCPCB.
 
-<img src="./images/schematicImage.png"/>
+<img src="./images/schematicImage.PNG"/>
 
 Board files and schematic can be found in this repo.
 Schematic PDF is provided in the repo in case this photo is too small.
