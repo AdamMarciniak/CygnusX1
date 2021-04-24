@@ -9,8 +9,8 @@
 Questions? Comments? Open up an issue!
 
 <div style="display:flex">
-<img src="./images/pcbHand2.jpg" height="400" />
-<img src="./images/pcb3.jpg" height="400" />
+<img src="./images/closeup5.jpg" height="400" />
+<img src="./images/closeup6.jpg" height="400" />
 <img src="./images/rocket1.jpg" height="400" />
 <img src="./images/blecloseup.jpg" height="400" />
 </div>
