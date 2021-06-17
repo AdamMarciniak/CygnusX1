@@ -11,11 +11,14 @@
 Questions? Comments? Open up an issue!
 
 <div style="display:flex">
+ <img src="./IMG_2948_DxO.jpg" height="400" />
+ <img src="./IMG_3903.jpg" height="400" />
  <img src="./images/closeup6.jpg" height="400" />
 <img src="./images/closeup5.jpg" height="400" />
 <img src="./images/rocket1.jpg" height="400" />
 <img src="./images/blecloseup.jpg" height="400" />
 </div>
+
 
 It's fully compatible with the Arduino IDE, Platformio etc. Code is written in C++.
 
